@@ -1,0 +1,38 @@
+{
+  "HomePage": {
+    "title": "Hello world!"
+  },
+  "NavBar": {
+    "weather": "Weather",
+    "cities": "Cities",
+    "settings": "Settings"
+  },
+  "SearchBar": {
+    "placeholder": "Search for cities",
+    "search": "Search"
+  },
+  "SettingsPage": {
+    "theme": {
+      "title": "Theme variants",
+      "variants": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+      }
+    },
+    "units": {
+      "title": "Units of measurement",
+      "variants": {
+        "metric": "Metric",
+        "imperial": "Imperial"
+      }
+    },
+    "language": {
+      "title": "User interface language",
+      "variants": {
+        "en": "English",
+        "uk": "Українська"
+      }
+    }
+  }
+}

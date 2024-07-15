@@ -1,0 +1,40 @@
+{
+  "HomePage": {
+    "title": "Вітаю!"
+  },
+  "NavBar": {
+    "weather": "Погода",
+    "cities": "Міста",
+    "settings": "Налаштування"
+  },
+  "SearchBar": {
+    "placeholder": "Пошук міст",
+    "search": "Пошук"
+  },
+  "SettingsPage": {
+    "theme": {
+      "title": "Варіанти теми",
+      "variants": {
+        "light": "Світла",
+        "dark": "Темна",
+        "system": "Системна"
+      }
+    },
+    "units": {
+      "title": "Одиниці виміру",
+      "variants": {
+        "metric": "Метрична",
+        "imperial": "Імперська"
+      }
+    },
+    "language": {
+      "title": "Мова інтерфейсу",
+      "variants": {
+        "en": "English",
+        "uk": "Українська"
+      }
+    }
+  }
+
+
+}
